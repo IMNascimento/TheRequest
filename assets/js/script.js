@@ -59,4 +59,8 @@ function error() {
 
 function success() {
   alert("Foi a melhor escolha !");
+    var phone = '5532988967108';
+    var linkWhatsApp = 'https://wa.me/' + phone;
+    window.location.href = linkWhatsApp;
 }
+
