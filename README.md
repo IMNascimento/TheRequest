@@ -2,6 +2,8 @@
 
 Este é um projeto de sistema de pedidos desenvolvido para facilitar a organização de eventos especiais, como pedidos de namoro, pedidos de casamento, encontros românticos, etc. O sistema permite que os usuários criem pedidos personalizados e enviem para a pessoa amada de uma forma criativa e memorável.
 
+site: https://imnascimento.github.io/TheRequest/
+
 ## Recursos
 
 - **Categorias de Pedidos:** O sistema oferece diferentes categorias de pedidos, como Pedidos de Namoro, Pedidos de Casamento, Pedidos de Café, etc.
