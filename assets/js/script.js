@@ -48,7 +48,7 @@ function distanceFromCenter(boxPosition, mousePosition, boxSize) {
 }
 
 function error() {
-  var confirm = window.confirm("Tem certeza ? Não terá volta !");
+  var confirm = window.confirm("Tem certeza ? Não terá volta kkk !");
   if (confirm == true) {
     alert("Ok não irei mais te pertubar !");
   } else {
